@@ -1,4 +1,4 @@
-# ESP8266-Genshen-Impact-small-TV
+# 项目简介
 原神主题esp8266小电视
 
 <img src=picture/IMG_20240703_215851.jpg width=50% />
